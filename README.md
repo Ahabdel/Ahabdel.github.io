@@ -1,7 +1,3 @@
-# Ahabdel.github.io
-![logo](https://user-images.githubusercontent.com/64559175/222990903-b2af0ac7-58e2-4e6c-bea2-d7834af3a14d.png)
-![cart](https://user-images.githubusercontent.com/64559175/222990927-b0879a59-ffba-4109-a169-01d3c0e824da.png)
-![DentalBanner](Dentalbanner.png)
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,7 +14,7 @@
   <section class="header">
     <nav>
       <div class="logo">
-        <img src="images/logo.png" >
+        <img src="![logo](https://user-images.githubusercontent.com/64559175/222991389-35b70758-3a6c-43cb-b2cd-fbceccab62d8.png)" >
       </div>
       <div class="nav-links" id="navLinks">
         <i class="fa-sharp fa-solid fa-xmark" onclick="hideMenu()"></i>
